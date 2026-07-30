@@ -1,0 +1,59 @@
+five59inehub/
+│
+├── README.md
+├── package.json
+├── netlify.toml
+├── _redirects
+├── .gitignore
+│
+├── public/
+│   ├── favicon.ico
+│   ├── logo.png
+│   ├── qr-code.png
+│   ├── manifest.json
+│   └── screenshots/
+│       ├── desktop-preview.png
+│       └── mobile-preview.png
+│
+├── src/
+│   ├── assets/
+│   │   ├── images/
+│   │   ├── icons/
+│   │   └── fonts/
+│   │
+│   ├── components/
+│   │   ├── Header.jsx
+│   │   ├── Footer.jsx
+│   │   ├── SearchBar.jsx
+│   │   ├── CategoryCard.jsx
+│   │   ├── OrganizationCard.jsx
+│   │   └── QRScanner.jsx
+│   │
+│   ├── pages/
+│   │   ├── Home.jsx
+│   │   ├── Resources.jsx
+│   │   ├── Housing.jsx
+│   │   ├── Jobs.jsx
+│   │   ├── Food.jsx
+│   │   ├── Healthcare.jsx
+│   │   ├── Emergency.jsx
+│   │   └── About.jsx
+│   │
+│   ├── services/
+│   │   ├── api.js
+│   │   ├── analytics.js
+│   │   └── notifications.js
+│   │
+│   ├── data/
+│   │   ├── organizations.json
+│   │   ├── categories.json
+│   │   └── featured.json
+│   │
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── styles.css
+│
+└── docs/
+    ├── branding-guide.pdf
+    ├── logo-assets/
+    └── screenshots/
